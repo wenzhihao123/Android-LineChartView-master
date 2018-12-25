@@ -1,7 +1,7 @@
 # Android-LineChartView-master
 最近看到有人在做带有折线图的项目，看着挺牛叉的，于是动手写了一把，记录下来绘制的过程，希望不会遗忘，主要就是计算问题，其他就是canvas绘制的过程了。
 
-![](https://upload-images.jianshu.io/upload_images/2018489-e604cab833d2dc07.jpg)
+![](https://upload-images.jianshu.io/upload_images/2018489-e604cab833d2dc07.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/540)
 
 简单封装了一下几个关键属性,使用的姿势：
 ```
